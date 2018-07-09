@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Deku",
+      "image":"https://pbs.twimg.com/profile_images/959810338094010369/FPT5LXHU_400x400.jpg",
+      "occupation": "Student at UA",
+      "location": "UA"
+    },
+    {
+      "id": 2,
+      "name": "Katsuki",
+      "image":"https://vignette.wikia.nocookie.net/bokunoheroacademia/images/8/83/Katsuki_Bakugo_School_Uniform_Full_Body.png/revision/latest/scale-to-width-down/196?cb=20160112221614",
+      "occupation": "Student at UA",
+      "location": "UA"
+    },
+    {
+      "id": 3,
+      "name": "STAIN",
+      "image":"https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+      "occupation": "Hero Killer",
+      "location": "In The Streets"
+    },
+    {
+      "id": 4,
+      "name": "Enji Todoroki",
+      "image":"https://vignette.wikia.nocookie.net/bokunoheroacademia/images/2/22/Endeavor_Anime_Profile.png/revision/latest/scale-to-width-down/239?cb=20170906213725",
+      "occupation": "Hero?",
+      "location": "Also in these streets"
+    },
+    {
+      "id": 5,
+      "name": "Ochaco Uraraka",
+      "image":"https://vignette.wikia.nocookie.net/bokunoheroacademia/images/6/69/Ochaco_School_Uniform_Full_Body.png/revision/latest/scale-to-width-down/153?cb=20160112174417",
+      "occupation": "A Student at UA",
+      "location": "UA"
+    }
+    
+  ]
